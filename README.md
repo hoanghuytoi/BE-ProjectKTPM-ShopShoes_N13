@@ -38,3 +38,25 @@ BE-ProjectKTPM-ShopShoes_N13 là dự án Backend cho website bán giày dép, �
 3. Cấu hình các biến môi trường trong file `.env`
 4. Khởi động các service (có thể dùng Docker Compose): `docker-compose up` hoặc chạy từng service riêng lẻ
 5. Truy cập các API endpoint theo tài liệu hướng dẫn
+
+## Demo
+1. Trang chủ
+![Trang chủ](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/1.png)
+2. Đăng ký
+![Đăng ký](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/2.png)
+3. Đăng nhập
+![Đăng nhập](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/3.png)
+4. Thông tin người dùng
+![Thông tin người dùng](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/4.png)
+5. Lịch sử đơn hàng
+![Lịch sử đơn hàng](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/5.png)
+6. Sản phẩm
+![Sản phẩm](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/6.png)
+7. Cửa hàng
+![Cửa hàng](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/7.png)
+8. Chi tiết sản phẩm
+![Chi tiết sản phẩm](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/8.png)
+9. Giỏ hàng & thanh toán
+![Giỏ hàng & thanh toán](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/9.png)
+10. Quản trị viên
+![Quản trị viên](https://github.com/hoanghuytoi/BE-ProjectKTPM-ShopShoes_N13/blob/main/demo/10.png)
